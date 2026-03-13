@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Environment variables (used later in backend projects)
+.env
+
+# OS files (sometimes appear on Windows/Mac)
+.DS_Store
+Thumbs.db
