@@ -65,3 +65,14 @@ git push
 Uploads commits to GitHub.
 
 Branches allow developers to safely work on new features without breaking the main branch.
+
+## Example API Endpoints
+
+GET /users
+Returns a list of users
+
+POST /users
+Creates a new user
+
+GET /users/1
+Returns user with ID 1
